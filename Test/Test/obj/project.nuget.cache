@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eB8hcM1W6N/obpDyVvSrz4nNCZekobJbDHhk4ETrqc3x2nzl9n0b/QEOoPf/+fC1UzM/Rlp9vkiBHpcLRK+l5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikay\\OneDrive\\Рабочий стол\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
